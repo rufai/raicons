@@ -1,11 +1,16 @@
-# Sample Snack app
+# Raicons
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A React Native Demo App
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+It demonstrates Dropdown feature and how it trigers a list of item.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+It uses useEffect to render the screen on new data.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+It maintains data useState.
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+# Raicons Screen
+
+
+![Creating a new Repl](/assets/demoImages/1.png)
+
+![Creating a new Repl](/assets/demoImages/2.png)
